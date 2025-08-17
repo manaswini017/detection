@@ -60,9 +60,9 @@ streamlit run app.py
 
 
 ## Steps
-- 1.Upload dataset (CSV file with account details) or enter details manually
-- 2.The trained model will predict whether the account is Fake or Genuine
-- 3.Confidence score will be displayed
+- Upload dataset (CSV file with account details) or enter details manually
+- The trained model will predict whether the account is Fake or Genuine
+- Confidence score will be displayed
 
 ---
 
@@ -83,5 +83,8 @@ This project is licensed under the MIT License.
 - matplotlib & seaborn for visualization
 ---
 ## Future Work
-While this finance manager provides essential features for personal finance tracking, future work could include adding support for recurring transactions, enabling export of data to CSV or PDF formats
+- Expand dataset with real-world social media account data.
+- Integrate deep learning models for improved accuracy.
+- Connect with social media APIs for real-time detection.
+- Deploy on cloud platforms for wider accessibility.
 - --
