@@ -60,9 +60,9 @@ streamlit run app.py
 
 
 ## Steps
-1.Upload dataset (CSV file with account details) or enter details manually
-2.The trained model will predict whether the account is Fake or Genuine
-3.Confidence score will be displayed
+- 1.Upload dataset (CSV file with account details) or enter details manually
+- 2.The trained model will predict whether the account is Fake or Genuine
+- 3.Confidence score will be displayed
 
 ---
 
